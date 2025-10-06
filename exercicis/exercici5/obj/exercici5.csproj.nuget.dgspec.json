@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici5\\exercici5.csproj": {}
+    "C:\\Users\\ferra\\Documents\\Program\\1-programes-basics-ferry2212\\exercicis\\exercici5\\exercici5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici5\\exercici5.csproj": {
+    "C:\\Users\\ferra\\Documents\\Program\\1-programes-basics-ferry2212\\exercicis\\exercici5\\exercici5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici5\\exercici5.csproj",
+        "projectUniqueName": "C:\\Users\\ferra\\Documents\\Program\\1-programes-basics-ferry2212\\exercicis\\exercici5\\exercici5.csproj",
         "projectName": "exercici5",
-        "projectPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici5\\exercici5.csproj",
-        "packagesPath": "C:\\Users\\Coral Planagumà\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici5\\obj\\",
+        "projectPath": "C:\\Users\\ferra\\Documents\\Program\\1-programes-basics-ferry2212\\exercicis\\exercici5\\exercici5.csproj",
+        "packagesPath": "C:\\Users\\ferra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferra\\Documents\\Program\\1-programes-basics-ferry2212\\exercicis\\exercici5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Coral Planagumà\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ferra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

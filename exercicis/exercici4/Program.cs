@@ -10,7 +10,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        
+        Console.WriteLine("Introdueix el valor en euros: ");
+        var valor = Console.ReadLine();
+        int valor2 =Convert.ToInt16(valor);
+        const double valorpesseta = 166.386;
+        var resultat = valor2 * valorpesseta;
+        Console.WriteLine($"El valor en pesssetes es {resultat}");
     }
 }

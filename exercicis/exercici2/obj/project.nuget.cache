@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7Rjbwjw1SZU=",
+  "dgSpecHash": "vlCbfGPD6xU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici2\\exercici2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ferra\\Documents\\Program\\1-programes-basics-ferry2212\\exercicis\\exercici2\\exercici2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferra\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\ferra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\ferra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\ferra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
