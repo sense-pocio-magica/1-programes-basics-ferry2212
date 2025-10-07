@@ -12,6 +12,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int numero, resultat, C, D, U;
+        Console.WriteLine("Diguem un numero de 3 xifres: ");
+        numero = Convert.ToInt32(Console.ReadLine());
+        C = numero / 100;
+        numero = numero % 100;
+        D = numero / 10;
+        U = numero % 10;
+        resultat = (U * 100) + (D * 10) + C;
+        Console.WriteLine($"El numero invertit és: {resultat}");
+
     }
 }

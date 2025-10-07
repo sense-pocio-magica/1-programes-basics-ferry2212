@@ -27,6 +27,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Digues el primer numero: ");
+        int primernumero = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Digues el segon numero: ");
+        int segonnumero = Convert.ToInt32(Console.ReadLine());
+        int suma = primernumero + segonnumero;
+        int resta = primernumero - segonnumero;
+        int multiplicació = primernumero * segonnumero;
+        double divisió = primernumero / segonnumero;
+        double divisióresta = primernumero % segonnumero;
+        Console.WriteLine($"{primernumero} + {segonnumero} = {suma}");
+        Console.WriteLine($"{primernumero} - {segonnumero} = {resta}");
+        Console.WriteLine($"{primernumero} * {segonnumero} = {multiplicació}");
+        Console.WriteLine($"{primernumero} / {segonnumero} = {divisió} i resta {divisióresta}");
     }
 }

@@ -9,13 +9,23 @@ La nota final és 8.7 o sigui un 8
 
 Nota de pràctiques: 10
 Nota de l’examen: 5
-La nota final és 6.5 o sigui un 7 
+La nota final és 6.5 o sigui un 7
 */
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Diguem la teva nota de pràciques: ");
+        string practiques = Console.ReadLine();
+        double notapractiques = double.Parse(practiques);
+        Console.WriteLine("Diguem la teva nota d'examens: ");
+        string examens = Console.ReadLine();
+        double notaexamens = double.Parse(examens);
+        double mitjana = notapractiques + notaexamens;
+        double mitjanafinal = mitjana / 2;
+        int notafinal = (int)Math.Round(mitjanafinal, 0, MidpointRounding.AwayFromZero);
+        Console.WriteLine($"La teva mitjana es {mitjanafinal} es a dir {notafinal}");
+
     }
 }

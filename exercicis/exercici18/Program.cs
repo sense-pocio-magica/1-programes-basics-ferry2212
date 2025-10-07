@@ -17,6 +17,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Quina hora es ara? 1-12 ");
+        int horaactual = Convert.ToInt16(Console.ReadLine());
+        Console.WriteLine("Cuantes hores vols incrementar? ");
+        int horesaincrementar = Convert.ToInt16(Console.ReadLine());
+        int resultat = ((horaactual - 1 + horesaincrementar) % 12) + 1;
+        Console.WriteLine($"Hora actual: {horaactual},  hores a incrementar: {horesaincrementar}, d'aqui {horesaincrementar} hores seran les {resultat}");
     }
 }

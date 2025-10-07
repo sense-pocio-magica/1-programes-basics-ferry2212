@@ -1,0 +1,15 @@
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.AssemblyInfoInputs.cache
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.AssemblyInfo.cs
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.csproj.CoreCompileInputs.cache
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.sourcelink.json
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\bin\Debug\net9.0\exercici19.exe
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\bin\Debug\net9.0\exercici19.deps.json
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\bin\Debug\net9.0\exercici19.runtimeconfig.json
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\bin\Debug\net9.0\exercici19.dll
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\bin\Debug\net9.0\exercici19.pdb
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.dll
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\refint\exercici19.dll
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.pdb
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\exercici19.genruntimeconfig.cache
+C:\Users\ferra\Documents\Program\1-programes-basics-ferry2212\exercicis\exercici19\obj\Debug\net9.0\ref\exercici19.dll

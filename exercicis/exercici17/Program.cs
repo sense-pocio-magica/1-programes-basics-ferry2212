@@ -15,6 +15,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Diguem un numero lleig: ");
+        var numerolleig = Console.ReadLine();
+        decimal numerolleig1 = decimal.Parse(numerolleig);
+        decimal numeromaravellos = numerolleig1 - Math.Truncate(numerolleig1);
+        Console.WriteLine($"Número lleig: {numerolleig1} Nombre meravellós: {numeromaravellos}");
     }
 }

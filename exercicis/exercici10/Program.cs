@@ -8,6 +8,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Diguem el teu nom: ");
+        var nom = Console.ReadLine();
+        Console.WriteLine("Diguem l'any de naixement: ");
+        int anynaixement = Convert.ToInt16(Console.ReadLine());
+        Console.WriteLine($"{nom}{anynaixement}");
     }
 }
